@@ -1,0 +1,10 @@
+/* 
+  Localize.strings
+  localization
+
+  Created by Alex Kisel on 7/25/18.
+  Copyright © 2018 zor. All rights reserved.
+*/
+
+"Hello world" = "Привет мир";
+
